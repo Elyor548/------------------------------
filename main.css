@@ -105,7 +105,7 @@ html {
 
 @media (min-width: 320px )  and (max-width: 480px) {
         body {
-            background-image: url('./fon/fon.jpg'); /* путь к скачанной картинке */
+            background-image: url('./fon/fon333.jpeg'); /* путь к скачанной картинке */
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -170,7 +170,7 @@ html {
 
 
     .map-button {
-        background-color: ForestGreen;  /* зелёный фон */
+        background-color: SteelBlue;  /* зелёный фон */
         color: white;               /* белый текст */
         padding: 12px 24px;
         font-size: 16px;
@@ -270,7 +270,7 @@ html {
 
 
 .map-button {
-    background-color: #2E8B57;  /* зелёный фон */
+    background-color: SteelBlue;  /* зелёный фон */
     color: white;               /* белый текст */
     padding: 12px 24px;
     font-size: 19px;
